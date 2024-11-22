@@ -77,7 +77,7 @@ public class BaseTest {
 		 
 		 if (Browser.contains("chrome")) {
 			 driver=new ChromeDriver();
-		}
+		} 
 		 
 		 else if (Browser.contains("Firefox")) {
 			 driver=new FirefoxDriver(); 
