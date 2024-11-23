@@ -70,7 +70,7 @@ public class BaseTest {
 		 String Browser = file.readpropertyFile("Browser");
 		 String url = file.readpropertyFile("url");
 		 
-		// String url = System.getProperty("url");
+		// String url = System.getProperty("url"); 
 		 
 		 
 		// String Browser="chrome";
